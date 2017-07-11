@@ -16,8 +16,8 @@
  * Description:       Plugin to establish conditional relationships between fields in a CMB2 metabox.
  * Author:            José Carlos Chávez <jcchavezs@gmail.com>
  * Author URI:        http://github.com/jcchavezs
- * Github Plugin URI: https://github.com/jcchavezs/cmb2-conditionals
- * Github Branch:     master
+ * Github Plugin URI: https://github.com/yaronguez/cmb2-conditionals
+ * Github Branch:     yaronguez
  * Version:           1.0.4
  * License:           GPL v3
  *
